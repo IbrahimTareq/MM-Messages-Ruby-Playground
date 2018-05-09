@@ -1,6 +1,6 @@
-title: Ruby Project
+title: MessageMedia Messages Ruby
 plan:
-- title: Welcome
+- title: MessageMedia Messages Ruby
   statement: markdowns/welcome.md
 projects:
   ruby:
